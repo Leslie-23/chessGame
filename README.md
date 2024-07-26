@@ -13,8 +13,7 @@ A simple chess game built using HTML, CSS, and JavaScript. This project demonstr
 - [License](#license)
 
 ## Demo
-![Chess Game Screenshot](https://github.com/user-attachments/assets/7ffff58f-c1c4-4e77-bf67-a0a00a8c43c)
-
+![Chess Game Screenshot](https://github.com/user-attachments/assets/0efbd23a-babe-4ab9-926e-de3c362a2d21)
 
 You can also see a live demo of the project [here](link_to_live_demo).
 
